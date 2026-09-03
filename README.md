@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="./profile-photo.jpg" width="250">
+
+</div>
 # Hi 👋, I'm Tarequl Islam 
 ### 💻 Beginner Web Developer | Frontend Developer
 I'm a passionate beginner web developer who enjoys building responsive, clean, and user-friendly websites.
