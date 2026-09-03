@@ -1,8 +1,7 @@
 <div align="center">
-
-<img src="./project/project/b14-web-dev-portfolio/images/tarequl.png" width="250">
-
+  <img src="./github-tarequl.png" width="100%">
 </div>
+
 # Hi 👋, I'm Tarequl Islam 
 ### 💻 Beginner Web Developer | Frontend Developer
 I'm a passionate beginner web developer who enjoys building responsive, clean, and user-friendly websites.
