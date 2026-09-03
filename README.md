@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-photo.jpg" width="250">
+<img src="./project/project/b14-web-dev-portfolio/images/tarequl.png" width="250">
 
 </div>
 # Hi 👋, I'm Tarequl Islam 
