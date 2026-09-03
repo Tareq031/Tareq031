@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./github-tarequl.png" width="100%">
-</div>
+<img src="./banner.png" width="100%" alt="Tarequl Islam Banner">
 
 # Hi 👋, I'm Tarequl Islam 
 ### 💻 Beginner Web Developer | Frontend Developer
