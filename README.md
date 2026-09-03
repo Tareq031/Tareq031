@@ -54,6 +54,6 @@ I’m currently learning and improving my skills in modern web development and w
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tareq031&show_icons=true&locale=en" alt="tareq031" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tareq031&" alt="tareq031" /></p>
