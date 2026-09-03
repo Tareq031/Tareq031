@@ -9,12 +9,11 @@ I’m currently learning and improving my skills in modern web development and w
 
 ## 👨‍💻 About Me  
 - 🔭 Current Focus: Working on Web Development projects
-- 🔭 Current Focus: Working on Web Development projects
-🔭 Current Focus: Working on Web Development projects
-🌱 Learning: Improving my skills in JavaScript, React.js & Tailwind CSS
-💻 Interest: Frontend Web Development
-🎨 Passion: Creating responsive and modern user interfaces
-📚 Goal: Always eager to learn new web technologies
+- 🌱 Learning: Improving my skills in JavaScript, React.js & Tailwind CSS
+- 💻 Interest: Frontend Web Development
+- 🎨 Passion: Creating responsive and modern user interfaces
+- 📚 Goal: Always eager to learn new web technologies
+
 
 
 ## 🛠️ Tech Stack  
