@@ -1,11 +1,19 @@
-# Hi 👋, I'm <YOUR NAME>  
-### 🔭 I build things with JavaScript, React, and Node.js
+# Hi 👋, I'm Tarequl Islam 
+### 💻 Beginner Web Developer | Frontend Developer
+I'm a passionate beginner web developer who enjoys building responsive, clean, and user-friendly websites.
+
+I’m currently learning and improving my skills in modern web development and working on different projects to build my portfolio.
+
 
 ---
 
 ## 👨‍💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+🔭 Current Focus: Working on Web Development projects
+🌱 Learning: Improving my skills in JavaScript, React.js & Tailwind CSS
+💻 Interest: Frontend Web Development
+🎨 Passion: Creating responsive and modern user interfaces
+📚 Goal: Always eager to learn new web technologies
+
 
 <h1 align="center">Hi 👋, I'm Tarequl Islam</h1>
 <h3 align="center">Student</h3>
