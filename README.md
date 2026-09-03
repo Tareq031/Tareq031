@@ -8,14 +8,8 @@ I’m currently learning and improving my skills in modern web development and w
 ---
 
 ## 👨‍💻 About Me  
-```json
-{
-  "🔭 Current Focus": "^Working on Web Development projects",
-  "Learning": "^Improving my skills in JavaScript, React.js & Tailwind CS",
-  "mongoose": "^7.x",
-  "tailwindcss": "^3.x"
-}
-```
+- 🔭 Current Focus: Working on Web Development projects
+- 🔭 Current Focus: Working on Web Development projects
 🔭 Current Focus: Working on Web Development projects
 🌱 Learning: Improving my skills in JavaScript, React.js & Tailwind CSS
 💻 Interest: Frontend Web Development
